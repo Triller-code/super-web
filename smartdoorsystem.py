@@ -13,7 +13,7 @@ import hashlib
 
 MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'Rootphilex'
+MYSQL_PASSWORD = 'Root'
 
 def create_database():
     try:
